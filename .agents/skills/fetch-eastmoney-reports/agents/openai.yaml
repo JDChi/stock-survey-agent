@@ -1,0 +1,3 @@
+display_name: Fetch Eastmoney Reports
+short_description: Fetch A-share report PDFs from Eastmoney.
+default_prompt: Download the latest annual and quarterly report PDFs for an A-share stock using Eastmoney announcements.
